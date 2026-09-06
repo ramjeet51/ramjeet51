@@ -1,18 +1,192 @@
-# 💫 About Me:
-RAMJEET PRAJAPATI <br>DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins <br> <br><br>📍 Lucknow, India | 📞 +91-9554970735 | ✉ ramjeetprajapaty777@gmail.com <br><br>GitHub: https://github.com/ramjeet51 | LinkedIn: https://www.linkedin.com/in/ramjeet-prajapati-898a03307/ <br><br>Professional Summary <br><br>DevOps Engineer with hands-on experience in AWS, Kubernetes, Docker, Terraform, Jenkins, Linux Administration, CI/CD automation, monitoring, and cloud infrastructure management. Experienced in deploying and managing containerized applications, troubleshooting production environments, and implementing Infrastructure as Code (IaC). <br><br>Technical Skills <br><br>Cloud: AWS (EC2, S3, IAM, VPC, Route53, EKS) <br>DevOps: Kubernetes, Docker, Jenkins,  Terraform, Ansible <br>Monitoring: Zabbix, Prometheus, Grafana, ELK, New Relic <br>OS: Linux, Windows <br>Languages: Python, Shell Scripting, JavaScript, C <br>Databases: MySQL, PostgreSQL, MongoDB <br>Web: Nginx, Django, FastAPI, Next.js <br><br>Work Experience <br><br>Associate DevOps Engineer | Evervent | Apr 2025 – Present <br>• Built and maintained CI/CD pipelines using Jenkins. <br>• Managed AWS, Azure, E2E Cloud infrastructure and Linux servers. <br>• Deployed and man’aged Kubernetes workloads. <br>• Configured Nginx reverse proxies and SSL. <br>• Worked with monitoring tools including Zabbix and New Relic. <br>• Troubleshot production incidents and optimized infrastructure. <br><br>System Engineer Intern | Kapidhwaj AI Research Park, IIT Gandhinagar <br>• Worked on cloud infrastructure, networking, Linux systems, and Raspberry Pi deployments. <br><br>• Collaborated with cross-functional teams to improve system reliability and performance. <br><br>• Worked with Terraform and CloudFormation concepts for Infrastructure as Code (IaC). <br><br>• Assisted in cloud application deployments, monitoring, and production support. <br><br>• Configured and managed Apache and Nginx web servers. <br><br>• Developed automation scripts using Python and Shell Scripting. <br><br>• Worked with Docker and Kubernetes for application containerization and orchestration. <br><br>• Built and maintained CI/CD pipelines and Git-based deployment workflows. <br><br>• Administered and troubleshot Linux-based servers, networking, and cloud infrastructure issues. <br><br>• Managed and supported AWS Cloud Infrastructure including EC2, S3, IAM, VPC, Route 53, API Gateway, Amplify, and CloudFront. <br><br>Software Development Engineer (Cloud & DevOps) | Mecatredz Software & Innovations Pvt. Ltd | Dec 2023 – Apr 2025 | Lucknow, India <br><br>Projects <br><br>1. Terraform AWS Infrastructure Automation <br>GitHub: https://github.com/ramjeet51/terraform <br>• Developed Infrastructure as Code using Terraform. <br>• Automated provisioning of AWS resources including networking, IAM, and compute services. <br>• Implemented reusable modules and environment-based deployments. <br><br>2. Library Management System – Kubernetes Deployment <br>GitHub: https://github.com/ramjeet51/library_app <br>• Built a full-stack application using FastAPI, Next.js, and MySQL. <br>• Containerized frontend and backend using Docker. <br>• Deployed a complete 3-tier architecture on Kubernetes. <br>• Implemented Deployments, Services, ConfigMaps, Secrets, and PVCs. <br>• Configured Readiness and Liveness Probes. <br>• Implemented JWT Authentication and secure configuration management. <br>• Performed Kubernetes troubleshooting using kubectl logs, port-forwarding, and debugging tools. <br><br>Education <br><br>Diploma in Computer Science & Engineering | MMIT Sant Kabir Nagar | 2021–2024 
+<div align="center">
 
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Ramjeet%20Prajapati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform%20|%20Jenkins&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ramjeet Prajapati) 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Automating+Infrastructure+with+Terraform+%F0%9F%9A%80;Orchestrating+Containers+with+Kubernetes+%E2%98%B8%EF%B8%8F;Building+CI%2FCD+Pipelines+with+Jenkins+%F0%9F%94%A7;Managing+Cloud+on+AWS+%E2%98%81%EF%B8%8F;Turning+%22It+works+on+my+machine%22+into+Production+%F0%9F%94%A5" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ramjeet51&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ramjeet51&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ramjeet51&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=ramjeet51&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Profile views & badges -->
+<img src="https://komarev.com/ghpvc/?username=ramjeet51&label=Profile%20Views&color=00c9ff&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-DevOps%20%7C%20Cloud%20Roles-brightgreen?style=flat-square&logo=probot"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+
+<!-- Contact -->
+<a href="mailto:ramjeetprajapaty777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ramjeet-prajapati-898a03307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ramjeet51"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="tel:+919554970735"><img src="https://img.shields.io/badge/Call-+91--9554970735-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```yaml
+name: Ramjeet Prajapati
+role: DevOps Engineer
+location: Lucknow, India
+currently_working_at: Evervent
+focus: [AWS, Kubernetes, Docker, Terraform, Jenkins, CI/CD, Linux, Monitoring]
+currently_learning: [Advanced Kubernetes Security, GitOps, Service Mesh]
+fun_fact: "I automate things so I can automate more things ⚙️"
+```
+
+- 🔭 Building and maintaining **CI/CD pipelines** and **Kubernetes workloads** in production
+- 🌱 Deepening expertise in **Infrastructure as Code** and **cloud-native monitoring**
+- 💬 Ask me about **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux**
+- 📫 Reach me at **ramjeetprajapaty777@gmail.com**
+- ⚡ Fun fact: I've deployed 3-tier architectures on Kubernetes with full observability from scratch
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**☁️ Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+
+**⚙️ DevOps & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,ansible,linux,git,githubactions,nginx" />
+
+**📊 Monitoring & Observability**
+<br/>
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
+
+**💻 Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,bash,js,c,fastapi,nextjs,django" />
+
+**🗄️ Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</div>
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+**🟢 Associate DevOps Engineer** — Evervent  <sub>*(Apr 2025 – Present)*</sub>
+- Built & maintained CI/CD pipelines using Jenkins
+- Managed AWS, Azure & E2E Cloud infrastructure with Linux servers
+- Deployed and managed Kubernetes workloads in production
+- Configured Nginx reverse proxies & SSL
+- Monitored systems with Zabbix and New Relic; resolved production incidents
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🔵 System Engineer Intern** — Kapidhwaj AI Research Park, IIT Gandhinagar
+- Worked on cloud infrastructure, networking, Linux systems & Raspberry Pi deployments
+- Used Terraform & CloudFormation for Infrastructure as Code (IaC)
+- Containerized & orchestrated applications with Docker and Kubernetes
+- Managed AWS services: EC2, S3, IAM, VPC, Route 53, API Gateway, Amplify, CloudFront
+- Built CI/CD pipelines and Git-based deployment workflows
+- Automated tasks using Python and Shell scripting
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🟣 Software Development Engineer (Cloud & DevOps)** — Mecatredz Software & Innovations Pvt. Ltd  <sub>*(Dec 2023 – Apr 2025, Lucknow)*</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ramjeet51/terraform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ramjeet51&repo=terraform&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ramjeet51/library_app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ramjeet51&repo=library_app&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🔹 [Terraform AWS Infrastructure Automation](https://github.com/ramjeet51/terraform)
+> Infrastructure as Code for AWS using reusable Terraform modules
+- Automated provisioning of networking, IAM & compute resources
+- Implemented reusable modules with environment-based deployments
+
+### 🔹 [Library Management System – Kubernetes Deployment](https://github.com/ramjeet51/library_app)
+> Full-stack 3-tier app deployed on Kubernetes
+- Built with **FastAPI**, **Next.js** & **MySQL**, containerized with Docker
+- Implemented Deployments, Services, ConfigMaps, Secrets & PVCs
+- Configured Readiness/Liveness Probes and JWT Authentication
+- Debugged using `kubectl logs`, port-forwarding & live troubleshooting
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramjeet51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramjeet51&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramjeet51&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramjeet51/ramjeet51/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> ℹ️ *To activate this animated snake graph, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it auto-generates the SVG above from your contribution graph.*
+
+<br/>
+
+## 🎓 Education
+
+**Diploma in Computer Science & Engineering**
+MMIT Sant Kabir Nagar | 2021 – 2024
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ramjeetprajapaty777@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ramjeet-prajapati-898a03307/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/ramjeet51"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=100&section=footer" width="100%"/>
+
+**⭐ From [ramjeet51](https://github.com/ramjeet51) — Thanks for stopping by!**
+
+</div>
