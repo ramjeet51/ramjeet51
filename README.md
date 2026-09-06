@@ -10,6 +10,11 @@
 
 <br/>
 
+<!-- Holographic avatar frame -->
+<img src="https://raw.githubusercontent.com/ramjeet51/ramjeet51/main/hologram-avatar.svg" width="260"/>
+
+<br/><br/>
+
 <!-- Profile views & badges -->
 <img src="https://komarev.com/ghpvc/?username=ramjeet51&label=Profile%20Views&color=00c9ff&style=flat-square" alt="profile views"/>
 <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
