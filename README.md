@@ -161,10 +161,10 @@ fun_fact: "I automate things so I can automate more things ⚙️"
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ramjeet51/ramjeet51/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ramjeet51/ramjeet51/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ℹ️ *To activate this animated snake graph, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it auto-generates the SVG above from your contribution graph.*
+> ℹ️ *This image will show a broken icon until the `snake.yml` workflow (provided separately) has run at least once — see setup steps below.*
 
 <br/>
 
